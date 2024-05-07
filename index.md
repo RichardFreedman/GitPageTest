@@ -1,5 +1,6 @@
 ---
-title: Updated Name for Test Site from index file
+title: Updated Name for Test Site from Index file
+description: Updated description from index
 layout: default
 ---
 
