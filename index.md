@@ -1,5 +1,5 @@
 ---
-title: Updated Name for Test Site
+title: Updated Name for Test Site from index file
 layout: default
 ---
 
