@@ -1,3 +1,6 @@
-##  GitPageTest
+##  Git Page Test
 
-TestSpace for Git Pages
+Richard's Test Page for Git Pages
+
+
+[Graphj Page](graph.html)
