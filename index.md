@@ -1,3 +1,8 @@
+---
+title: Updated Name for Test Site
+layout: default
+---
+
 ##  Git Page Test
 
 Richard's Test Page for Git Pages
