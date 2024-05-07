@@ -13,3 +13,5 @@ Richard's Test Page for Git Pages
 [Graph Page](graph.html)
 
 [SamplePage](page.md)
+
+[CRIM Essays](crimEssays.html)
