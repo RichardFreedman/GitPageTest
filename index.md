@@ -2,5 +2,6 @@
 
 Richard's Test Page for Git Pages
 
+#### Here is a Graph.  Click below to view it.
 
-[Graphj Page](graph.html)
+[Graph Page](graph.html)
